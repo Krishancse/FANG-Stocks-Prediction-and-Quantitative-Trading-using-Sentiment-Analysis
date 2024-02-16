@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **machine learning for trading and research with NumPy, pandas etc**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/krishan-kant-ab9475229](www.linkedin.com/in/krishan-kant-ab9475229)
-
 - 💬 Ask me about **ai, ml ,dl and data science**
 
 - 📫 How to reach me **kantkrishan0205@gmail.com**
@@ -53,7 +51,7 @@ The main objectives of this project include:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/FANG-Stocks-Prediction.git
+    git clone https://github.com/krishancse/FANG-Stocks-Prediction.git
     ```
 
 2. Navigate to the project directory:
