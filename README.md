@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishan kant</h1>
 <h3 align="center">i am quantitative trader and researcher </h3>
 
-- currently working in quantitative trader and researcher [FANG-Stocks-Prediction-and-Quantitative-Trading-using-Sentiment-Analysis](https://github.com/Krishancse/FANG-Stocks-Prediction-and-Quantitative-Trading-using-Sentiment-Analysis)
+- currently working on [FANG-Stocks-Prediction-and-Quantitative-Trading-using-Sentiment-Analysis](https://github.com/Krishancse/FANG-Stocks-Prediction-and-Quantitative-Trading-using-Sentiment-Analysis)
 
 - 🌱 I’m currently learning **machine learning for trading and research with NumPy, pandas etc**
 
